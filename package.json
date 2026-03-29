@@ -10,6 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "@discordjs/core": "^2.4.0",
     "@huggingface/inference": "^4.12.0",
     "debug": "^4.4.3",
     "discord.js-selfbot-v13": "^3.7.1",
